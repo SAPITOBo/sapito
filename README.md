@@ -1,11 +1,4 @@
-# `🧿 Sapito - 𝙱𝚘𝚝 🔮`
-
-### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTANOS 👑`
-<a href="http://wa.me/595983186566" target="blank"><img src="https://img.shields.io/badge/BRUNO_Sapito CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/34" target="blank"><img src="https://img.shields.io/badge/UNPTOADHIH15_COLAB.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/5049" target="blank"><img src="https://2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/5959" target="blank"><img src="https://img.shields.io/badge/AID3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/51" target="blank"><img src="https://img.shields.io/badge/GA4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+〰️🔸🔸SAPITO BOT🔶🔸〰️
 
 
 
@@ -30,7 +23,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/BrunoSobrino/TheMystic-Bot-MD
+> git clone https://github.com/SAPITOBo/sapito
 > cd sapito 
 > yarn install 
 > npm update
